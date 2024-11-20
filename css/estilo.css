@@ -446,6 +446,9 @@ table ul.construido li {
     transition: all 0.3s ease-in-out;
     border-radius: 10px;
 }
+table td .link-proyecto i:hover{
+    font-size: 0;
+}
 /*Conocimiento*/
 .conocimiento-titulo{
     text-transform: uppercase;
